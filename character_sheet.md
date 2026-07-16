@@ -48,7 +48,7 @@
 
 | Characteristic | Value |
 |---------------|------:|
-| Wounds | 10 *(to verify against Core Rulebook one final time)* |
+| Wounds | 10 |
 | Fate | 1 |
 | Fortune | 1 |
 | Resilience | 1 |
