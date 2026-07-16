@@ -14,14 +14,17 @@ Currently only Caelar.
 
 # Known NPCs
 
-## Lathai (working name)
+## Lathai
 
-Wardancer.
+Veteran Wardancer.
 
 Mentor to Caelar.
 
-Believes Caelar has a different path to protecting the forest.
+Believes Caelar's path to protecting Athel Loren lies not in mastering the dance, but in discovering the truth behind the growing corruption beyond the forest.
 
+Before Caelar departed, Lathai tied a faded crimson ribbon beneath his spearhead and simply said:
+
+> "Return with truth."
 ---
 
 # Known Locations
