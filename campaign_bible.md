@@ -39,13 +39,12 @@ He served as a border warden and guide.
 
 # Current Mysteries
 
-Increasing Beastman activity.
+- Beastman incursions have become more frequent along the borders of Athel Loren.
+- Signs of corruption are appearing where none should exist.
+- The trails seem to lead away from the forest rather than deeper into it.
+- Caelar believes the source of the problem lies somewhere within the Empire.
 
-Increasing corruption.
-
-Possible connection with events beyond the forest.
-
-No conclusions reached.
+No conclusions have yet been reached.
 
 ---
 
@@ -57,18 +56,24 @@ None.
 
 # Timeline
 
-112 years ago
+## 112 years ago
 
-Caelar born.
+Caelar is born in Athel Loren.
 
-Unknown years
+## Following decades
 
-Serves as Guide on borders of Athel Loren.
+Serves as a Guide and border warden, learning the forgotten paths of the forest and protecting its borders from intrusion.
 
-Recent months
+## Recent months
 
-Evidence suggests Beastman activity increasing.
+Beastman activity and signs of corruption increase noticeably.
 
-Shortly before campaign
+Caelar begins investigating the pattern of incursions and becomes convinced the source lies beyond Athel Loren.
 
-Caelar departs Athel Loren following the trail into the Empire.
+## Shortly before the campaign
+
+Lathai entrusts Caelar with the crimson ribbon and the words:
+
+> "Return with truth."
+
+Caelar leaves Athel Loren and begins following the trail east toward the Empire. 
