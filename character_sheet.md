@@ -6,8 +6,9 @@
 |-------|-------|
 | Name | Caelar |
 | Species | Wood Elf (Asrai) |
-| Class | Scout |
-| Career | Guide |
+| Class | Peasant |
+| Career | Scout |
+| Career Level | Guide |
 | Status | Brass 3 |
 | Age | 112 years |
 | Height | 6'8" (203 cm) |
@@ -77,7 +78,7 @@
 
 | Skill | Characteristic | Advances | Total |
 |------|---------------|---------:|------:|
-| Charm Animal | Fel | +5 | 38 |
+| Charm Animal | WS | +5 | 38 |
 | Climb | S | +5 | 27 |
 | Endurance | T | +5 | 31 |
 | Gossip | Fel | +5 | 38 |
@@ -109,10 +110,25 @@
 
 # Trappings
 
+## Armour
+
+| Armour | Locations | AP | Encumbrance |
+|---|---|---:|---:|
+| Leather Jack | Arms, Body | 1 | 1 |
+
+## Weapons
+
+| Weapon | Group | Damage | Reach |
+|---|---|---:|---|
+| Asrai Hunting Spear *(Hand Weapon)* | Basic | 6 | Average |
+| Dagger | Basic | 4 | Very Short |
+
+**Note:** Caelar is trained in Ranged (Bow), but does not currently own a bow or arrows.
+
 ## Class
 
 - Clothing
-- Cloak
+- Cloak (travelling)
 - Dagger
 - Pouch
 - Sling Bag
@@ -122,7 +138,8 @@
 
 - Hand Weapon *(represented narratively by an elegant Asrai hunting spear)*
 - Leather Jack
-- Sturdy Boots
+- Sturdy Boot
+- Cloak (woodland)
 - Rope
 
 ---
