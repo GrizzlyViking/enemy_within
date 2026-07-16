@@ -1,120 +1,175 @@
 # Character Sheet
 
-## Basic Information
+# Basic Information
 
-**Name:** Caelar
-**Species:** Wood Elf (Asrai)
-**Age:** 112
-**Career:** Guide (Scout Class)
-**Status:** Brass 3
-**Current XP:** 50 (Unspent)
+| Field | Value |
+|-------|-------|
+| Name | Caelar |
+| Species | Wood Elf (Asrai) |
+| Class | Scout |
+| Career | Guide |
+| Status | Brass 3 |
+| Age | 112 years |
+| Height | 6'8" (203 cm) |
+| Movement | 5 |
 
 ---
 
 # Characteristics
 
+| Characteristic | Initial | Advances | Current |
+|---------------|--------:|---------:|--------:|
+| Weapon Skill | 38 | 0 | 38 |
+| Ballistic Skill | 43 | 0 | 43 |
+| Strength | 22 | 0 | 22 |
+| Toughness | 26 | 0 | 26 |
+| Initiative | 45 | 2 | 47 |
+| Agility | 48 | 3 | 51 |
+| Dexterity | 43 | 0 | 43 |
+| Intelligence | 39 | 0 | 39 |
+| Willpower | 45 | 0 | 45 |
+| Fellowship | 33 | 0 | 33 |
+
+## Characteristic Bonuses
+
+| Bonus | Value |
+|------|------:|
+| Strength Bonus | 2 |
+| Toughness Bonus | 2 |
+| Initiative Bonus | 4 |
+| Agility Bonus | 5 |
+| Dexterity Bonus | 4 |
+| Willpower Bonus | 4 |
+| Fellowship Bonus | 3 |
+
+---
+
+# Secondary Characteristics
+
 | Characteristic | Value |
 |---------------|------:|
-| Weapon Skill | 38 |
-| Ballistic Skill | 43 |
-| Strength | 22 |
-| Toughness | 26 |
-| Initiative | 45 |
-| Agility | 48 |
-| Dexterity | 43 |
-| Intelligence | 39 |
-| Willpower | 45 |
-| Fellowship | 33 |
-
-## Bonuses
-
-SB 2
-TB 2
-IB 4
-AgB 4
-DexB 4
-WPB 4
-FelB 3
-
-Movement: 5
-
-Wounds: TO VERIFY
-Fate: TO VERIFY
-Resilience: TO VERIFY
+| Wounds | 10 *(to verify against Core Rulebook one final time)* |
+| Fate | 1 |
+| Fortune | 1 |
+| Resilience | 1 |
+| Resolve | 1 |
 
 ---
 
 # Skills
 
-(To verify against Core Rulebook)
+## Species Skills
+
+| Skill | Advances | Total |
+|------|---------:|------:|
+| Perception | +5 | 52* |
+| Ranged (Bow) | +5 | 48 |
+| Track | +5 | 52* |
+| Outdoor Survival | +3 | 42 |
+| Stealth (Rural) | +3 | 54* |
+| Language (Eltharin) | +3 | 42 |
+
+\* Totals including Career Advances are shown below.
+
+---
+
+## Career Skills
+
+| Skill | Characteristic | Advances | Total |
+|------|---------------|---------:|------:|
+| Charm Animal | Fel | +5 | 38 |
+| Climb | S | +5 | 27 |
+| Endurance | T | +5 | 31 |
+| Gossip | Fel | +5 | 38 |
+| Lore (Local) | Int | +5 | 44 |
+| Melee (Basic) | WS | +5 | 43 |
+| Outdoor Survival | Int | +8 | 47 |
+| Perception | Initiative | +10 | 57 |
+| Ranged (Bow) | BS | +5 | 48 |
+| Stealth (Rural) | Ag | +3 | 54 |
+| Track | Initiative | +5 | 52 |
 
 ---
 
 # Talents
 
-Species
+## Species
 
 - Acute Sense (Sight)
-- Hardy
+- Second Sight
+- Night Vision
 - Read/Write
 - Rover
-- Second Sight
-- Sixth Sense
-- Savvy
-- Marksman
-- Orientation
 
-Career
+## Career
 
 - Sharp
-
-(To verify legality)
 
 ---
 
 # Trappings
 
-- Hand Weapon (Narratively an Asrai spear)
-- Leather Jack
+## Class
+
+- Clothing
 - Cloak
+- Dagger
+- Pouch
+- Sling Bag
+- One day's rations
+
+## Career
+
+- Hand Weapon *(represented narratively by an elegant Asrai hunting spear)*
+- Leather Jack
 - Sturdy Boots
 - Rope
 
-Money
+---
 
-34 Brass Pennies
+# Wealth
+
+**34 Brass Pennies**
 
 ---
 
 # Appearance
 
-Tall.
+Caelar is exceptionally tall even by Asrai standards.
 
-Lean athletic build.
+He has a lean, athletic build developed through decades of walking the borders of Athel Loren.
 
-Ash-blond windswept hair.
+His ash-blond hair falls in loose windswept locks reminiscent of ancient woodland warriors. Grey-green eyes constantly scan his surroundings, rarely resting in one place for long.
 
-Grey-green eyes.
-
-Weathered by life on the borders of Athel Loren.
-
-Carries an elegant Asrai spear wrapped with a faded crimson ribbon.
+His hunting spear bears a faded crimson ribbon tied just beneath the blade.
 
 ---
 
 # Personality
 
-Quiet.
+Quiet rather than shy.
 
-Patient.
+Patient rather than slow.
 
-Observant.
+Caelar believes every trail tells a story.
 
-Curious.
+He trusts evidence more readily than assumptions, preferring to observe before acting.
 
-Believes every trail has a beginning.
+Although reserved around strangers, he possesses a dry sense of humour that occasionally surfaces among trusted companions.
 
-Prefers evidence over assumptions.
+---
+
+# Background
+
+For decades Caelar served as one of Athel Loren's border wardens.
+
+He guided travellers, hunted Beastmen, watched forgotten trails and learned to read the forest as others read books.
+
+Recent years have seen increasing Beastman activity and disturbing signs of corruption along the borders.
+
+Following the evidence rather than rumour, Caelar became convinced the source lies somewhere beyond the forest, within the Empire itself.
+
+He has therefore left Athel Loren in search of answers.
 
 ---
 
@@ -122,24 +177,40 @@ Prefers evidence over assumptions.
 
 ## Mentor
 
-Lathai (working name)
+**Lathai** *(working name until finalised)*
 
 Veteran Wardancer.
 
-Presented Caelar with a crimson ribbon before he left Athel Loren.
+Before Caelar departed, Lathai untied a faded crimson ribbon from his own spear and fastened it beneath Caelar's spearhead.
 
-His final words:
+His only words were:
 
-"Return with truth."
+> "Return with truth."
 
 ---
 
 # Ambitions
 
-Short-term
+## Short-term
 
 Discover why Beastmen and corruption have increased along the borders of Athel Loren.
 
-Long-term
+## Long-term
 
-Earn the right to become a Wardancer through service to the forest.
+Earn the right to become a Wardancer through service to the forest rather than through strength alone.
+
+---
+
+# Experience
+
+Unspent XP: **50**
+
+---
+
+# Notes
+
+Caelar is not opposed to becoming an exceptional archer.
+
+However, he sees the bow as a tool rather than his identity.
+
+He considers himself first and foremost a warden, tracker and investigator whose duty is to uncover the truth behind the threats facing Athel Loren.
